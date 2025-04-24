@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #e0e0e0; /* 背景色を少し明るく */
+}
+
+canvas {
+    display: block;
+}
